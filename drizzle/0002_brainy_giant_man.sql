@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "total_wagered" numeric(38, 8) DEFAULT '0' NOT NULL;

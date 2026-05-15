@@ -1,0 +1,1 @@
+DROP TABLE "lootbox_claims" CASCADE;
